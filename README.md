@@ -1,8 +1,8 @@
 [versin]
 ver=6.4.3.2
 [guncel]
-not=-İndirme Programı Güncellenecektir
-not2=-İşlemler İyileştirildi
-not3=-GÜncelleme Sistemi Yenilendi
-not4=-Publish Güncellemesş
-not5=-Serfitika Yenilendi Haklar Saklıdır...
+not=- İndirme işlemeri Guncellenecektir
+not2=- İslemler İyilestirildi
+not3=- Guncelleme Sistemi Yenilendi
+not4=- Publish Guncellemesi
+not5=- Serfitika Yenilendi Haklar Saklidir...
