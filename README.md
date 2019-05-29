@@ -1,5 +1,7 @@
 [versin]
-ver=6.4.3.2
+ver=6.7.2.2 ~ Profosyonel
+
+
 [guncel]
 not=- İndirme işlemeri Guncellenecektir
 not2=- İslemler İyilestirildi
