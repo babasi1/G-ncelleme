@@ -33,4 +33,5 @@ not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Po
 
 
 [guncelyap]
-guncelle=1
+guncelle=0
+kapanmasebep=Deneme
