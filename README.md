@@ -30,3 +30,7 @@ not12=-
 not13=- Dikkat = Başlnagıçta Aç kısmı Açıksa Lütfen Bu bilgileri Okuyunuz
 
 not14=- Oncelikle flashla Acilan uygulama olarak kullanilir Flashinizin icine Porgram klosorunu Atınız ve içine bir tane Veri.dll Adlı Dosya Oluşturunuz Ve İsterseniz Flashla Studioya Girebilirsiniz 
+
+
+
+guncelyap = 1
